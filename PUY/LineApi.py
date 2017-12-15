@@ -314,4 +314,4 @@ class LINE:
       print("\nMid Kamu -> " + prof.mid)
       print("\nNama Akun -> " + prof.displayName)
       print("\nAuthToken Kamu -> " + self.authToken)
-      print("\nCert Kamu -> " + self.cert if self.cert is not None else "\nMau Tanya Lebih?\nline://ti/p/~yapuyy")
+      print("\nCert Kamu -> " + self.cert if self.cert is not None else "\nMau Tanya Lebih?\nline://ti/p/~ery.san")
